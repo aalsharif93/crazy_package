@@ -1,0 +1,16 @@
+{
+  "name": "crazy_package",
+  "version": "1.0.0",
+  "description": "package that is created to have several markups ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crazy",
+    "packge",
+    "index"
+  ],
+  "author": "abdullah alsharif",
+  "license": "ISC"
+}
