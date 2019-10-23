@@ -1,5 +1,9 @@
 let arrowFunc = (x) => ((console.log(x)))
 
 
+module.exports = {
 
-arrowFunc('burger')
+    arrowFunc,
+}
+
+// arrowFunc('burger')
